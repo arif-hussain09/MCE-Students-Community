@@ -1,0 +1,12 @@
+{
+  "original_path": "test_images/image.png",
+  "content_analysis": {
+    "violence": 0.21179795265197754,
+    "abuse": 0.2685829699039459,
+    "adult_content": 0.1344524323940277,
+    "scary": 0.17562781274318695,
+    "normal": 0.20953874289989471
+  },
+  "inappropriate_regions": [],
+  "processing_applied": []
+}
